@@ -1,2 +1,1 @@
-pip3 install torch==1.3.1+cu100 torchvision==0.4.2+cu100 -f https://download.pytorch.org/whl/cu100/torch_stable.html
-pip3 install transformers==2.4.1 pytorch-lightning==0.7.3 gensim==3.8.3 ujson fuzzywuzzy
+https://njc-download.weiyun.com/ftn_handler/835e3eb0d45aacc819786067b0c8e9d13872d67b916c189f2a99f6b66a872e31a3a79b497ab6633acd63fe871a373eea79f79ee990f4efedf08677030a893455/torch-1.3.1%2Bcu100-cp36-cp36m-linux_x86_64.whl?fname=torch-1.3.1%2Bcu100-cp36-cp36m-linux_x86_64.whl&from=30113&version=3.3.3.3
