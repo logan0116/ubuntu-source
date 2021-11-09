@@ -1,5 +1,3 @@
-apt update
-apt upgrade -y
 cp -rf /usr/local/iss-ubuntu-source/source.list /etc/apt/sources.list
 apt update
 apt upgrade -y
